@@ -279,6 +279,7 @@ retail-sales-analytics-powerbi/
 │
 ├── Data/
 │   └── Retail_data.xlsx
+│   └── Retail_fact.xlsx
 │
 ├── DAX/
 │   └── measures.md
